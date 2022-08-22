@@ -22,5 +22,3 @@ fields:
 - type: list
   name: author
   label: author
-pages:
-- _posts/2022-08-21-how-to-create-a-website.md
