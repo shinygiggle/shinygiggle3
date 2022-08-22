@@ -2,7 +2,7 @@
 layout: post
 title: Website design
 date: 2022-08-21
-categories: web
+categories: []
 image: "/assets/createwebsite.png"
 author:
 - ShinyGiggle
