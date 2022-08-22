@@ -8,15 +8,16 @@ fields:
 - type: text
   name: title
   label: title
-- type: date
+- type: datetime
   name: date
   label: date
 - type: text
   name: categories
   label: categories
-- - type: text
-  name: image
-  label: image
+- - name: image
+  type: file
+  config:
+    maxSize: 64
 - type: list
   name: author
   label: author
