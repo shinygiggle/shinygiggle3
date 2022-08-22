@@ -6,7 +6,6 @@ categories: Melbourne
 image: "/assets/createwebsite.jpg"
 author:
 - ShinyGiggle
-
 ---
 I love website design.
 
