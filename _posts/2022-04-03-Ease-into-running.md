@@ -3,7 +3,7 @@ layout: post
 title: Ease into running
 date: 2022-04-03
 categories: exercise
-image: ''
+image: "/assets/running.png"
 author:
 - ShinyGiggle
 
