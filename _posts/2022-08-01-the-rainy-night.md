@@ -6,7 +6,6 @@ categories: Melbourne
 image: "/assets/rainymelbourne.jpg"
 author:
 - ShinyGiggle
-
 ---
 It was such a rainy night tonight. It really was.
 
