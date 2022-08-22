@@ -8,7 +8,7 @@ author:
 - ShinyGiggle
 
 ---
-![](/assets/walking.png)Running, it's not everyone's cup of tea, but the health benefits are undeniable if approached sensibly. So let's take a little look at how to ease into running.
+Running, it's not everyone's cup of tea, but the health benefits are undeniable if approached sensibly. So let's take a little look at how to ease into running.
 
 Firstly, it should be said that launching into an intensive running program after not having done much running - or other exercise for that matter - is probably unwise and often leads to some form of injury, preventing you from running which totally defeats the purpose. Hence the **_ease_** into running.
 
