@@ -10,4 +10,4 @@ author:
 ---
 This is a new post on how to create a website
 
-It sure is
+It sure is.
