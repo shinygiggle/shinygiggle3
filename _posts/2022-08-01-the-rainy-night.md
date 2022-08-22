@@ -2,7 +2,7 @@
 layout: post
 title: The rainy night
 date: 2022-08-01
-categories: melbourne
+categories: Melbourne
 image: "/assets/rainymelbourne.jpg"
 author:
 - ShinyGiggle
