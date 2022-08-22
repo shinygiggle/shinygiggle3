@@ -1,5 +1,5 @@
 ---
-label: Blog post
+label: post
 hide_body: false
 fields:
 - type: text
@@ -14,10 +14,9 @@ fields:
 - type: text
   name: categories
   label: categories
-- - name: image
-  type: file
-  config:
-    maxSize: 64
+- type: file
+  name: image
+  label: image
 - type: list
   name: author
   label: author
