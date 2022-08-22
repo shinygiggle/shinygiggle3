@@ -15,9 +15,9 @@ fields:
   name: categories
   label: categories
 - name: image
-  type: text
+  type: file
   config:
-    required: false
+    maxSize: 64
   label: image
 - type: list
   name: author
