@@ -20,3 +20,5 @@ fields:
 - type: list
   name: author
   label: author
+pages:
+- _posts/another-post.md
