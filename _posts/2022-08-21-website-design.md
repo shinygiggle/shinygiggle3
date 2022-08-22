@@ -3,7 +3,7 @@ layout: post
 title: Website design
 date: 2022-08-21
 categories: Melbourne
-image: "/assets/createwebsite.png"
+image: "/assets/walking.png"
 author:
 - ShinyGiggle
 
