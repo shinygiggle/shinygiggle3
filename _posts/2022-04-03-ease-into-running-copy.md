@@ -3,7 +3,7 @@ layout: post
 title: Ease into running-(copy)
 date: 2022-04-03
 categories: exercise
-image: ''
+image: walking.png
 author:
 - ShinyGiggle
 
