@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ease into running-(copy)
-date: 2022-04-03
+date: 2022-04-03 14:00:00 +0000
 categories: exercise
 image: "/assets/walking.png"
 author:
