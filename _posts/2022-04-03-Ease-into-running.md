@@ -8,9 +8,9 @@ author:
 - ShinyGiggle
 
 ---
-Running, it's not everyone's cup of tea, but the health benefits are undeniable if approached sensibly. So let's take a little look at how to ease into running.
+![](/assets/walking.png)Running, it's not everyone's cup of tea, but the health benefits are undeniable if approached sensibly. So let's take a little look at how to ease into running.
 
-Firstly, it should be said that launching into an intensive running program after not having done much running - or other exercise for that matter - is probably unwise and often leads to some form of injury, preventing you from running which totally defeats the purpose. Hence the ***ease*** into running.
+Firstly, it should be said that launching into an intensive running program after not having done much running - or other exercise for that matter - is probably unwise and often leads to some form of injury, preventing you from running which totally defeats the purpose. Hence the **_ease_** into running.
 
 (Also, there are plenty of in depth articles about how to get into running out there (like [this one](https://www.runnersworld.com/uk/training/beginners/a772727/how-to-start-running-today/)), this blog doesn't claim to be one of them. I do, however, hope this short piece gives you a few pointers and inspires you to investigate further and put your left foot in front of your right ...
 
@@ -26,25 +26,17 @@ Spending time thinking about why and what you'd like to get out of running is us
 
 Common reasons to run include:
 
-- it's good for me
+* it's good for me
+* it's freeing
+* I got a place in the marathon
+* my partner runs and I want to share it with them
+* I like buying shoes and new stuff like a new watch
+* to prove I can
+* adventure
+* stress relief
+* to get to and escape from the office
 
-- it's freeing
-
-- I got a place in the marathon
-
-- my partner runs and I want to share it with them
-
-- I like buying shoes and new stuff like a new watch
-
-- to prove I can
-
-- adventure
-
-- stress relief
-
-- to get to and escape from the office
-
-Ultimately people are either running *away* from something or running *to* something.
+Ultimately people are either running _away_ from something or running _to_ something.
 
 Each to their own I say - whatever gets you out there.
 
@@ -60,16 +52,16 @@ The trick. The trick is to set things up so it's "easy" for you to pull off this
 
 Congratulations - you've started your journey to become a runner!
 
-Do this for a few weeks. Get used to the habit or *build* the habit.
+Do this for a few weeks. Get used to the habit or _build_ the habit.
 
 During this time you're getting used to the shoes, socks, track pants, t-shirt, jacket etc, trying new bits of kit and learning more about what feels good for you.
 
 You're also "earning the right" to a new pair of shoes (should you need them) and you know you'll actually use them.
 
 Once this has become a habit and you're ready to take the next step (literally) to running I recommend reading the [Runners World article](https://www.runnersworld.com/uk/training/beginners/a772727/how-to-start-running-today/) about starting to run as they outline a great schedule to move thing along.
-  
+
 Like all exercise running is easier and more efficient if your body is moving well. Checking in with your health practictioner is a great way to help ensure you're moving well.
 
-Lastly, getting good at running takes time.  Our cardiovascular system adapts more quickly to training than our joints ligaments and conceive tissue. It takes years for these tissues to adapt to the genuine stressors of running. This is why *professional* runners build up to a marathon distance over a period of years, not months. I say this because I've seen countless people get a place in a marathon and think they can be *ready* for it in 6 months only to breakdown during the training program be a mess after the event or, worse still, not enjoy the experience of the actual marathon itself.
+Lastly, getting good at running takes time.  Our cardiovascular system adapts more quickly to training than our joints ligaments and conceive tissue. It takes years for these tissues to adapt to the genuine stressors of running. This is why _professional_ runners build up to a marathon distance over a period of years, not months. I say this because I've seen countless people get a place in a marathon and think they can be _ready_ for it in 6 months only to breakdown during the training program be a mess after the event or, worse still, not enjoy the experience of the actual marathon itself.
 
 Running is a journey - in more ways than one - and I encourage you to give yourself time and permission to enjoy all of them, because, in the long run you're running for you.
