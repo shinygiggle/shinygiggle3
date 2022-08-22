@@ -6,7 +6,6 @@ categories: Melbourne
 image: "/assets/windy-melbourne.png"
 author:
 - ShinyGiggle
-
 ---
 It is quite a windy day today!
 
