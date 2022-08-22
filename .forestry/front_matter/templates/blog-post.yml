@@ -14,11 +14,13 @@ fields:
 - type: text
   name: categories
   label: categories
-- type: file
-  name: image
-  label: image
 - type: list
   name: author
   label: author
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
 pages:
 - _posts/2022-08-21-how-to-create-a-website.md
