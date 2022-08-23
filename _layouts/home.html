@@ -25,6 +25,7 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
+        <!-- Added "| relative_url" to line below - this is required so that image files of github pages repositories further down the path like username.github.io/repository are addressed correctly -->
         <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
