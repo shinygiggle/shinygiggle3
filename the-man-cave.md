@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TheManCave
+title: The Man Cave
 ---
 
 ![](https://i0.wp.com/the-inkline.com/wp-content/uploads/2018/07/cropped-tmc-program-34-e1532779707105-1.png?fit=1100%2C618&ssl=1)
