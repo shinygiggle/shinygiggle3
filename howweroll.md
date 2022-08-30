@@ -12,6 +12,8 @@ title: HowWeRoll
 @@ text in purple (and bold)@@
 ```
 
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>
+
 <span style="color:yellow">
 <p>Humanity First - Put the care for others first before moving onto business </p>
 
