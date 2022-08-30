@@ -1,3 +1,8 @@
+---
+layout: page
+title: TheManCave
+---
+
 <!DOCTYPE html>
 <!-- saved from url=(0071)https://the-inkline.com/2018/07/29/the-man-cave-redefining-masculinity/ -->
 <html lang="en-US" class="jetpack-lazy-images-js-enabled wf-opensans-n7-active wf-opensans-n4-active wf-robotoslab-n4-active wf-opensans-i4-active wf-opensans-i7-active wf-active"><!--[if IE]><html class="ie"><![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
