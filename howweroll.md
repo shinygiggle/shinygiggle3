@@ -2,7 +2,7 @@
 layout: page
 title: How We Roll
 ---
-
+<!--
 <p><span style="color:blue">Humanity First - Put the care for others first before moving onto business </span></p>
 <p><span style="color:blue">Catch it before it drifts - We catch even the smallest issues before they become larger, including interpersonal conflicts</span></p>
 <p><span style="color:blue">Be here now - Be present with the people around you</span></p>
@@ -11,6 +11,7 @@ title: How We Roll
 <p><span style="color:blue">Get it done - Be resilient and focused under pressure so that you achieve the outcomes you set out to</span></p>
 <p><span style="color:blue">Take the shot - Back yourself and be proactive</span></p>
 <p><span style="color:blue">Be a springboard - Support others to bounce back up when they take a shot and it misses</span></p>
+-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-AU"><head profile="http://gmpg.org/xfn/11">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
