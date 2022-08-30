@@ -337,7 +337,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>					</div>
 			</div>		    	        		    	        		    	        		    	        		    	        		    	        <div class="full-row image">
 					<div class="row">
-						<div class="left col-lg-8 col-sm-12"><img src="https://themancave.life/wp-content/uploads/2020/08/TMC-010-scaled.jpg"></div>					</div>
+						<div class="left col-lg-8 col-sm-12"><img src="https://shinygiggle.github.io/shinygiggle2/assets/themancave01.png"></div>					</div>
 			</div>		    	        <div class="full-row wysiwyg">
 					<div class="row">
 						<div class="left col-lg-6 col-sm-12 pad_none"><h1>Humanity First</h1>
