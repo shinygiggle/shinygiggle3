@@ -1,10 +1,16 @@
 ---
 layout: page
-title: humanityfirst
+title: howweroll
 ---
 
 
-<span style="color:yellow">
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 Humanity First
