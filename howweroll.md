@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HowWeRoll
+title: How We Roll
 ---
 
 <p><span style="color:blue">Humanity First - Put the care for others first before moving onto business </span></p>
