@@ -12,7 +12,6 @@ title: How We Roll
 <p><span style="color:blue">Take the shot - Back yourself and be proactive</span></p>
 <p><span style="color:blue">Be a springboard - Support others to bounce back up when they take a shot and it misses</span></p>
 -->
-
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-AU"><head profile="http://gmpg.org/xfn/11">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +29,7 @@ title: How We Roll
 <link rel="dns-prefetch" href="//js.hs-scripts.com">
 <link rel="dns-prefetch" href="//s.w.org">
 		<!-- This site uses the Google Analytics by MonsterInsights plugin v7.17.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-							<script src="https://js.hs-banner.com/3810520.js" type="text/javascript" id="cookieBanner-3810520" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="3810520" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1661894100000/3810520.js" type="text/javascript" id="hs-analytics"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-142420705-1&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5NWQLNQ"></script><script src="//www.googletagmanager.com/gtag/js?id=UA-142420705-1" type="text/javascript" data-cfasync="false"></script>
+							<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://js.hs-banner.com/3810520.js" type="text/javascript" id="cookieBanner-3810520" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="3810520" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1661895300000/3810520.js" type="text/javascript" id="hs-analytics"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-142420705-1&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5NWQLNQ"></script><script src="//www.googletagmanager.com/gtag/js?id=UA-142420705-1" type="text/javascript" data-cfasync="false"></script>
 			<script type="text/javascript" data-cfasync="false">
 				var mi_version = '7.17.0';
 				var mi_track_user = true;
@@ -288,20 +287,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 			<div id="menu">
 				<div class="container">
-					<ul id="main-menu" class="navbar-nav"><li id="menu-item-1687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1687"><a href="https://themancave.life/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Home</a></li>
-<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://themancave.life/our-programs/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Man Cave Programs</a></li>
-<li id="menu-item-1567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1567"><a href="https://themancave.life/man-cave-academy/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Man Cave Academy</a></li>
-<li id="menu-item-932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-932"><a href="https://themancave.life/resources/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Man Cave Digital</a></li>
-<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://themancave.life/our-results/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Impact &amp; Research</a></li>
+					<ul id="main-menu" class="navbar-nav"><li id="menu-item-1687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1687"><a href="https://themancave.life/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Home</a></li>
+<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://themancave.life/our-programs/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Man Cave Programs</a></li>
+<li id="menu-item-1567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1567"><a href="https://themancave.life/man-cave-academy/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Man Cave Academy</a></li>
+<li id="menu-item-932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-932"><a href="https://themancave.life/resources/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Man Cave Digital</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://themancave.life/our-results/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Impact &amp; Research</a></li>
 </ul>					<div id="right-side-wrap">
-						<ul id="right-main-menu" class="navbar-nav"><li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="https://themancave.life/our-story/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Our Story</a></li>
-<li id="menu-item-1698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1698"><a href="https://themancave.life/our-people/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Our People</a></li>
-<li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-602 current_page_item menu-item-1924"><a href="https://themancave.life/working-with-us/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690" aria-current="page">Working With Us</a></li>
-<li id="menu-item-1699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1699"><a href="https://themancave.life/partners-supporters/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Partners &amp; Donors</a></li>
-<li id="menu-item-1700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1700"><a href="https://themancave.life/media/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Media &amp; Articles</a></li>
-<li id="menu-item-1701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1701"><a href="https://themancave.life/shop/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Cavewear</a></li>
-<li id="menu-item-1702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702"><a href="https://themancave.life/contact/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">Contact Us</a></li>
-<li id="menu-item-1703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1703"><a href="https://themancave.life/questions/?__hstc=753710.7d2480ad27c1feb72f1cb8866f0e9238.1661894360910.1661894360910.1661894360910.1&amp;__hssc=753710.1.1661894360911&amp;__hsfp=813278690">FAQs</a></li>
+						<ul id="right-main-menu" class="navbar-nav"><li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="https://themancave.life/our-story/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Our Story</a></li>
+<li id="menu-item-1698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1698"><a href="https://themancave.life/our-people/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Our People</a></li>
+<li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-602 current_page_item menu-item-1924"><a href="https://themancave.life/working-with-us/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690" aria-current="page">Working With Us</a></li>
+<li id="menu-item-1699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1699"><a href="https://themancave.life/partners-supporters/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Partners &amp; Donors</a></li>
+<li id="menu-item-1700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1700"><a href="https://themancave.life/media/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Media &amp; Articles</a></li>
+<li id="menu-item-1701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1701"><a href="https://themancave.life/shop/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Cavewear</a></li>
+<li id="menu-item-1702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702"><a href="https://themancave.life/contact/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">Contact Us</a></li>
+<li id="menu-item-1703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1703"><a href="https://themancave.life/questions/?__hstc=753710.b4d5f048cea7583b0f016f81adb27f83.1661895374034.1661895374034.1661895374034.1&amp;__hssc=753710.1.1661895374034&amp;__hsfp=813278690">FAQs</a></li>
 </ul>						<ul class="social-icons">
 						 	<li class="fb"><a href="https://www.facebook.com/themancaveAU/" target="_blank" rel="noopener">Facebook</a></li>
 						 	<li class="tw"><a href="https://twitter.com/themancave_aus" target="_blank" rel="noopener">Twitter</a></li>
@@ -317,9 +316,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 			<div id="right-menu-wrap">
 				<ul id="right-menu">
-                                        					<li><a href="/contact/" class="btn">Book Program</a></li>
-					<li><a href="/donate/" class="btn">Donate</a></li>
-					<li><a href="#menu" id="open-menu" class="btn">Menu</a></li>
+                                        					<li></li>
+					<li></li>
+					<li></li>
 				</ul>
 			</div>
 			<div class="mobile-cart">
@@ -331,7 +330,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 	</div>
 			<div id="wrapper">	<div id="page-content" class="container"> 
-							    	        		    	        		    	        		    	        		    	        		    	        		    	        <div class="full-row image">
+							    	        <div class="full-row wysiwyg">
+					<div class="row">
+						<div class="left col-lg-6 col-sm-12 pad_none"><h2></h2>
+
+</div>					</div>
+			</div>		    	        		    	        		    	        		    	        		    	        		    	        <div class="full-row image">
 					<div class="row">
 						<div class="left col-lg-8 col-sm-12"><img src="https://themancave.life/wp-content/uploads/2020/08/TMC-010-scaled.jpg"></div>					</div>
 			</div>		    	        <div class="full-row wysiwyg">
@@ -679,5 +683,3 @@ var mailchimp_public_data = {"site_url":"https:\/\/themancave.life\/wp","ajax_ur
         </div>
 
 <script type="text/javascript" id="">window.addEventListener("message",function(a){"hsFormCallback"===a.data.type&&"onFormSubmitted"===a.data.eventName&&window.dataLayer.push({event:"hubspot-form-success","hs-form-guid":a.data.id})});</script><script type="text/javascript" id="">window.addEventListener("message",function(a){"hsFormCallback"===a.data.type&&"onFormSubmitted"===a.data.eventName&&window.dataLayer.push({event:"hubspot-form-success","hs-form-guid":a.data.id})});</script></body></html>
-
-
