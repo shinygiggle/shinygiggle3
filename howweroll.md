@@ -2,6 +2,9 @@
 layout: page
 title: How We Roll
 ---
+
+Everyone deserves to feel whole.  And each of us can do our part in expanding what it means to be a man.
+
 <!--
 <p><span style="color:blue">Humanity First - Put the care for others first before moving onto business </span></p>
 <p><span style="color:blue">Catch it before it drifts - We catch even the smallest issues before they become larger, including interpersonal conflicts</span></p>
