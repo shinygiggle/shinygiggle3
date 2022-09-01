@@ -26,3 +26,13 @@ There is an ongoing crisis with regards to young men and mental health, with unh
 
 ![storiesforboys](/assets/storiesforboys04.png)
 
+![storiesforboys](https://github.com/shinygiggle/shinygiggle2/raw/master/assets/storiesforboys01.png)
+
+![storiesforboys](https://github.com/shinygiggle/shinygiggle2/raw/master/assets/storiesforboys02.png)
+
+![storiesforboys](https://github.com/shinygiggle/shinygiggle2/raw/master/assets/storiesforboys03.png)
+
+![storiesforboys](https://github.com/shinygiggle/shinygiggle2/raw/master/assets/storiesforboys04.png)
+
+
+
