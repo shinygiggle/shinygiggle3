@@ -8,4 +8,4 @@ permalink: "/about/"
 
 This website is about getting and staying active.
 
-![getting-and-staying-active](/assets/upsteps.png "Getting and Staying Active")
+![getting-and-staying-active](/assets/upsteps.png)
