@@ -18,10 +18,10 @@ There is an ongoing crisis with regards to young men and mental health, with unh
 
 **A beautiful and transporting book packed with stories of adventure and wonderment, it will appeal to those who need the courage to reject peer pressure and go against the grain. It is the must-have book for all those boys who worry about stuff and all those parents who worry about their boys who worry about stuff. It will educate and entertain, while also encourage and inspire.**
 
-!\[storiesforboys\](/assets/storiesforboys01)
+![storiesforboys\](assets\storiesforboys01)
 
-!\[storiesforboys\](assets/storiesforboys02)
+![storiesforboys\](assets\storiesforboys02)
 
-!\[storiesforboys\](assets/storiesforboys03)
+![storiesforboys\](assets\storiesforboys03)
 
-!\[storiesforboys\](assets/storiesforboys04)
+![storiesforboys\](assets\storiesforboys04)
