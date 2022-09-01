@@ -9,4 +9,4 @@ title: test
 
 ![storiesforboys](assets/storiesforboys03.png)
 
-![storiesforboys](/assets/storiesforboys04.png)
+![storiesforboys](assets/storiesforboys04.png)
