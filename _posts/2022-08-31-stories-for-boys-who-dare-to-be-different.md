@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stories for Boys who Dare to be Different
-date: 2022-08-31 14:00:00 +0000
+date: 2022-08-31T14:00:00.000+00:00
 categories: health
 image: "/assets/storiesforboys.png"
 author:
@@ -26,7 +26,4 @@ There is an ongoing crisis with regards to young men and mental health, with unh
 
 ![storiesforboys](/shinygiggle2/assets/storiesforboys04.png)
 
-
-
-
-
+![](/assets/themancave02.png)
