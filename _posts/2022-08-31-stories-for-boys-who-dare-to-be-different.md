@@ -5,7 +5,7 @@ date: 2022-08-31 14:00:00 +0000
 categories: health
 image: "/assets/storiesforboys.png"
 author:
-- shinygiggle
+- ShinyGiggle
 
 ---
 written by: Ben Brooks, Quinton Winter
