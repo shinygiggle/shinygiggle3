@@ -2,7 +2,7 @@
 layout: post
 title: Stories for Boys who Dare to be Different
 date: 2022-08-31 14:00:00 +0000
-categories: ''
+categories: health
 image: "/assets/storiesforboys.png"
 author:
 - shinygiggle
