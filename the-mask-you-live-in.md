@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "The mask you live in - film"
+title: "The mask you live in"
 ---
 
-![storiesforboys](/shinygiggle2/assets/storiesforboys01.png)
+![storiesforboys](/shinygiggle2/assets/themaskyoulivein.png)
+
+Notes/Quotes from the film.
 
 Everyone deserves to feel whole.  And each of us can do our part in expanding what it means to be a man.
 
