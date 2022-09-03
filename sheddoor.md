@@ -13,7 +13,7 @@ WELCOME TO THE SHED DOOR -- CHURCH IN THONGS
 
 [](https://www.eternitynews.com.au/australia/welcome-to-the-shed-door-church-in-thongs)
 
-[PENNY MULVEY](https://www.eternitynews.com.au/people/penny-mulvey/) | MAY 13TH, 2022 03:19 PM | 
+[PENNY MULVEY](https://www.eternitynews.com.au/people/penny-mulvey/) | MAY 13TH, 2022 03:19 PM
 
 Phil Simpson is a bundle of energy. I've barely shaken his hand and stepped into The Shed Door when we are off on a tour of the facility ... a factory space that has been converted into a bright engaging indoor 'play' area for adolescent youth and men. BMX bikes adorn the walls. Minibikes are part of the decor. There is a decent space for shooting hoops. A basic kitchen. Upstairs quiet space. A stage with mikes and sound system, a mobile coffee cart, old neon signs. It's both laid back and exudes warmth.
 
