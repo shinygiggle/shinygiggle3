@@ -6,6 +6,8 @@ title: "The Mask You Live In"
 ![themaskyoulivein](/shinygiggle2/assets/themaskyoulivein.png)
 
 
+
+
 Notes/Quotes from the film.
 
 Everyone deserves to feel whole.  And each of us can do our part in expanding what it means to be a man.
