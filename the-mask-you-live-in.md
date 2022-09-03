@@ -3,7 +3,7 @@ layout: page
 title: "The mask you live in"
 ---
 
-![storiesforboys](/shinygiggle2/assets/themaskyoulivein.png)
+![themaskyoulivein](/assets/themaskyoulivein.png)
 
 Notes/Quotes from the film.
 
