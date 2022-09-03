@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The mask you live in"
+title: "The Mask You Live In"
 ---
 
 ![themaskyoulivein](/assets/themaskyoulivein.png)
