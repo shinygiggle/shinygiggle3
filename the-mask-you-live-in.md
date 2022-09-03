@@ -2,6 +2,9 @@
 layout: page
 title: "The Mask You Live In"
 ---
+A film looking at the question: 
+
+Is American masculinity harming our boys, men and society at large?
 
 ![themaskyoulivein](/shinygiggle2/assets/themaskyoulivein.png)
 
