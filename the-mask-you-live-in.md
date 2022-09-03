@@ -3,7 +3,7 @@ layout: page
 title: "The Mask You Live In"
 ---
 
-![themaskyoulivein](/assets/themaskyoulivein.png)
+![themaskyoulivein](/shinygiggle2/assets/themaskyoulivein.png)
 
 Notes/Quotes from the film.
 
