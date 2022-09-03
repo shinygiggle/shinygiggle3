@@ -7,7 +7,9 @@ Chanced across this Men's Health episode of the Camberwell Hockey Club podcast a
 
 [Camberwell Hockey Club Podcast about TheManCave Organisation](https://podcasts.apple.com/au/podcast/s02e01-matt-defina/id1507129983?i=1000526349319)
 
-From TheManCave website, "At The Man Cave (TMC) culture is not an idea – it is a practice."
+From TheManCave website . . .
+
+ "At The Man Cave (TMC) culture is not an idea – it is a practice."
 
 <!--
 <p><span style="color:blue">Humanity First - Put the care for others first before moving onto business </span></p>
