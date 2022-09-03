@@ -8,18 +8,12 @@ title: "The Shed Door"
 
 Phil Simpson relaxing in The Shed Door
 
-[AUSTRALIA](https://www.eternitynews.com.au/section/australia/) [OUTREACH](https://www.eternitynews.com.au/topics/outreach/)
-
 WELCOME TO THE SHED DOOR -- CHURCH IN THONGS
 ===========================================
 
-[](https://www.facebook.com/sharer/sharer.php?u=https://eternity.news/s/ks9ql "Share on Facebook")[](https://twitter.com/intent/tweet/?text=Welcome+to+The+Shed+Door+%E2%80%93+Church+in+thongs+via+%40EternityNews+https://eternity.news/s/ks9ql "Share on Twitter")[](whatsapp://send?text=Welcome+to+The+Shed+Door+%E2%80%93+Church+in+thongs%20https://eternity.news/s/ks9ql "Share via WhatsApp")[](https://www.eternitynews.com.au/australia/welcome-to-the-shed-door-church-in-thongs/share/email/?location=article+start "Share via Email")[
+[](https://www.eternitynews.com.au/australia/welcome-to-the-shed-door-church-in-thongs)
 
-URL copied!
-
-](https://www.eternitynews.com.au/australia/welcome-to-the-shed-door-church-in-thongs/copylink/?location=article+start "Copy link")
-
-[PENNY MULVEY](https://www.eternitynews.com.au/people/penny-mulvey/) | MAY 13TH, 2022 03:19 PM | ![Comment Icon](https://www.eternitynews.com.au/wp-content/themes/eternityNews/images/comment.svg) [ADD A COMMENT](https://www.eternitynews.com.au/australia/welcome-to-the-shed-door-church-in-thongs/#comments)
+[PENNY MULVEY](https://www.eternitynews.com.au/people/penny-mulvey/) | MAY 13TH, 2022 03:19 PM | 
 
 Phil Simpson is a bundle of energy. I've barely shaken his hand and stepped into The Shed Door when we are off on a tour of the facility ... a factory space that has been converted into a bright engaging indoor 'play' area for adolescent youth and men. BMX bikes adorn the walls. Minibikes are part of the decor. There is a decent space for shooting hoops. A basic kitchen. Upstairs quiet space. A stage with mikes and sound system, a mobile coffee cart, old neon signs. It's both laid back and exudes warmth.
 
