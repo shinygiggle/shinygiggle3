@@ -3,8 +3,6 @@ layout: page
 title: "The Mask You Live In"
 ---
 
-![themaskyoulivein](/shinygiggle2/assets/themaskyoulivein.png)
-
 ![themaskyoulivein](shinygiggle2/assets/themaskyoulivein.png)
 
 
