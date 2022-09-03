@@ -4,8 +4,8 @@ title: About
 permalink: "/about/"
 
 ---
-### shinygiggle
+### shinygiggle2
 
-This website is about getting and staying active.
+This website is about being brave enough to have real friendships.
 
 ![getting-and-staying-active](/assets/upsteps.png)
