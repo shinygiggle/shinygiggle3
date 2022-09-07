@@ -52,6 +52,6 @@ Values & Culture
 
 ### You'll be a better person when you leave TMC than when you arrived.
 
-![HowWeRoll](/assets/HowWeRoll.png)
+![HowWeRoll](/assets/HowWeRoll.png){: width="797" }
 
 ![](https://themancave.life/wp-content/uploads/2020/08/Home-of-The-Brave-Crop.png)
