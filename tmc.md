@@ -1,10 +1,9 @@
 ---
 layout: page
-title: tmc
+title: How we roll
 ---
 
-TMC Story
----------
+
 
 "Thanks for the lesson man it really showed me what it means and feels like to be a man!"
 =========================================================================================
