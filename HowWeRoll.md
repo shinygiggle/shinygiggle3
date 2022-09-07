@@ -53,18 +53,18 @@ Values & Culture
 ### You'll be a better person when you leave TMC than when you arrived.
 
 
-| **Humanity First** |  |
-| _Put the care for others first before moving onto business_ |  |
-| **Catch it before it drifts** |  |
-| _We catch even the smallest issues before they become larger, including interpersonal conflicts_ |  |
+| **Humanity First** |                                          |
+| _Put the care for others first before moving onto business_ |                                          |
+| **Catch it before it drifts** |                                          |
+| _We catch even the smallest issues before they become larger, including interpersonal conflicts_ |                                          |
 |  | **Be here now** |
 |  | _Be present with the people around you_ |
 |  | **Take stock & celebrate the wins** |
 |  | _We make time to slow down, reflect and celebrate what we have achieved_ |
-| **Do your work** |  |
-| _Take responsibility for your personal wellbeing, prepare effectively for meetings and other events and be prepared to do the work on yourself so you can become a better person_ |  |
-| **Get it done** |  |
-| _Be resilient and focused under pressure so that you achieve the outcomes you set out to_ |  |
+| **Do your work** |                                          |
+| _Take responsibility for your personal wellbeing, prepare effectively for meetings and other events and be prepared to do the work on yourself so you can become a better person_ |                                          |
+| **Get it done** |                                          |
+| _Be resilient and focused under pressure so that you achieve the outcomes you set out to_ |                                          |
 |  | **Take the shot** |
 |  | _Back yourself and be proactive_ |
 |  | **Be a springboard** |
