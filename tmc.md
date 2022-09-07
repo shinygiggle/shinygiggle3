@@ -15,33 +15,11 @@ TMC Story
 
 ![](https://themancave.life/wp-content/uploads/2020/01/2019-10-28_The_Man_Cave_Sandringham_353.jpg)
 
+### Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.
 
-<table border="0">
- <tr>
-    <td>Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.</td>
-    <td>So they answered a call from Frankston High School in 2014, which was seeking a wellness program for its boys. Leaving aside their own ridiculously similar social enterprises (Hunter ran Change the Game and Jamin GameChangers), the pair met three nights a week for six weeks, designing the skeleton of a program they decided to call The Man Cave.</td>
- </tr>
-</table>
+### So they answered a call from Frankston High School in 2014, which was seeking a wellness program for its boys. Leaving aside their own ridiculously similar social enterprises (Hunter ran Change the Game and Jamin GameChangers), the pair met three nights a week for six weeks, designing the skeleton of a program they decided to call The Man Cave.
 
-
-
-
-
-<p align="right">
-Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.
-</p>
-
-
-
-<p align="right">
-So they answered a call from Frankston High School in 2014, which was seeking a wellness program for its boys. Leaving aside their own ridiculously similar social enterprises (Hunter ran Change the Game and Jamin GameChangers), the pair met three nights a week for six weeks, designing the skeleton of a program they decided to call The Man Cave.
-</p>
-
-
-
-<p align="right">
-After six workshops in two days, the school's principal pulled them aside.
-</p>
+### After six workshops in two days, the school's principal pulled them aside.
 
 "I've never seen the corridors lit up like this. I don't know what you guys did, but keep doing it."
 ====================================================================================================
@@ -118,18 +96,27 @@ Be a springboard
 ![](https://themancave.life/wp-content/uploads/2020/08/Home-of-The-Brave-Crop.png)
 
 
-
-<p align="left">
-// Your content
-</p>
-
-<p align="center">
-// Your content
-</p>
-
-<p align="right">
-// Your content
-</p>
-
-
-
+| **Humanity First** |  |
+| **==============** |  |
+| _Put the care for others first before moving onto business_ |  |
+| **Catch it before it drifts** |  |
+| **=========================** |  |
+| _We catch even the smallest issues before they become larger, including interpersonal conflicts_ |  |
+|  | **Be here now** |
+|  | **===========** |
+|  | _Be present with the people around you_ |
+|  | **Take stock & celebrate the wins** |
+|  | **===============================** |
+|  | _We make time to slow down, reflect and celebrate what we have achieved_ |
+| **Do your work** |  |
+| **============** |  |
+| _Take responsibility for your personal wellbeing, prepare effectively for meetings and other events and be prepared to do the work on yourself so you can become a better person_ |  |
+| **Get it done** |  |
+| **===========** |  |
+| _Be resilient and focused under pressure so that you achieve the outcomes you set out to_ |  |
+|  | **Take the shot** |
+|  | **=============** |
+|  | _Back yourself and be proactive_ |
+|  | **Be a springboard** |
+|  | **================** |
+|  | _Support others to bounce back up when they take a shot and it misses_ |
