@@ -15,7 +15,9 @@ TMC Story
 
 ![](https://themancave.life/wp-content/uploads/2020/01/2019-10-28_The_Man_Cave_Sandringham_353.jpg)
 
-
+<span style="float:right;">
+        Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.
+    </span>
 
 <p align="right">
 Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.
