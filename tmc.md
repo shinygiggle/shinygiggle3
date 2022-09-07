@@ -15,9 +15,17 @@ TMC Story
 
 ![](https://themancave.life/wp-content/uploads/2020/01/2019-10-28_The_Man_Cave_Sandringham_353.jpg)
 
-<p style="float:right;">
-        Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.
-    </p>
+
+<table border="0">
+ <tr>
+    <td>Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.</td>
+    <td>So they answered a call from Frankston High School in 2014, which was seeking a wellness program for its boys. Leaving aside their own ridiculously similar social enterprises (Hunter ran Change the Game and Jamin GameChangers), the pair met three nights a week for six weeks, designing the skeleton of a program they decided to call The Man Cave.</td>
+ </tr>
+</table>
+
+
+
+
 
 <p align="right">
 Both driven by a lifelong passion for social change and seeing the impact of mental illness and domestic violence, they saw the need to work with young men at a preventative level, empowering them to become great men for themselves, their relationships and their communities.
