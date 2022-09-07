@@ -53,21 +53,51 @@ Values & Culture
 ### You'll be a better person when you leave TMC than when you arrived.
 
 
-| **Humanity First** |                                          |
-| _Put the care for others first before moving onto business_ |                                          |
-| **Catch it before it drifts** |                                          |
-| _We catch even the smallest issues before they become larger, including interpersonal conflicts_ |                                          |
-|  | **Be here now** |
-|  | _Be present with the people around you_ |
-|  | **Take stock & celebrate the wins** |
-|  | _We make time to slow down, reflect and celebrate what we have achieved_ |
-| **Do your work** |                                          |
-| _Take responsibility for your personal wellbeing, prepare effectively for meetings and other events and be prepared to do the work on yourself so you can become a better person_ |                                          |
-| **Get it done** |                                          |
-| _Be resilient and focused under pressure so that you achieve the outcomes you set out to_ |                                          |
-|  | **Take the shot** |
-|  | _Back yourself and be proactive_ |
-|  | **Be a springboard** |
-|  | _Support others to bounce back up when they take a shot and it misses_ |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">Humanity First</span><br><br><span style="font-weight:400;font-style:italic">Put the care for others first before moving onto business</span></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Catch it before it drifts</span><br><br><span style="font-style:italic">We catch even the smallest issues before they become larger, </span><br><span style="font-style:italic">including interpersonal conflicts</span></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Be here now</span><br><br><span style="font-weight:400;font-style:italic">Be present with the people around you</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Take stock &amp; celebrate the wins</span><br><br><span style="font-weight:400;font-style:italic">We make time to slow down, reflect and celebrate what we have achieved</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Do your work</span><br><br><span style="font-style:italic">Take responsibility for your personal wellbeing, prepare effectively</span><br><span style="font-style:italic">for meetings and other events and be prepared to do the work on yourself</span><br><span style="font-style:italic">so you can become a better person</span></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Get it done</span><br><br><span style="font-style:italic">Be resilient and focused under pressure so that you achieve the outcomes</span><br><span style="font-style:italic">you set out to</span></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Take the shot</span><br><br><span style="font-style:italic">Back yourself and be proactive</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Be a springboard</span><br><br><span style="font-style:italic">Support others to bounce back up when they take a shot and it misses</span></td>
+  </tr>
+</tbody>
+</table>
 
 ![](https://themancave.life/wp-content/uploads/2020/08/Home-of-The-Brave-Crop.png)
