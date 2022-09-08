@@ -8,7 +8,7 @@ Healthy Masculinity
 
 BECAUSE NO MAN SHOULD MISS OUT ON A FULL LIFE.
 
-![HowWeRoll](/assets/HowWeRoll.jpg)   
+![HowWeRoll](/assets/HowWeRoll.jpg){:width="100%"}    
 
 ![](/assets/Home-of-The-Brave-Crop-Edited.png)
 
