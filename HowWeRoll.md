@@ -10,7 +10,7 @@ BECAUSE NO MAN SHOULD MISS OUT ON A FULL LIFE.
 
 ![HowWeRoll](/assets/HowWeRoll.jpg)   
 
-![](https://themancave.life/wp-content/uploads/2020/08/Home-of-The-Brave-Crop.png)
+![](/assets/Home-of-The-Brave-Crop.png)
 
 [DadStuff Wall @ supportforfathers.com.au](https://supportforfathers.com.au/dadstuffwall/)   
 [DadStuff Wall.io direct link](https://my.walls.io/DadStuff?nobackground=1&show_header=0)  
