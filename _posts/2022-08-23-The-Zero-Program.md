@@ -337,5 +337,5 @@ Ms Bryant will email the employer, bcc’ing students, and parents, to confirm p
 
 
 
-*‌**‌Where do I find key contacts and other useful information in the Senior School?‌***
+*‌**‌Where do I find key contacts and other useful information in the Senior School?‌***  
 Please refer to the Parent Handbook
