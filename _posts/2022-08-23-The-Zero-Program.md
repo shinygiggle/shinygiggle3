@@ -72,6 +72,7 @@ In other subjects, students will complete the topics and assessments during the 
 No. Students are not expected to catch up on content and skills covered in class while on their three-week Zero Journey. Their absence has been planned for and accommodations made.
 
 *‌**‌How will the teachers support my child to ensure they are able to manage their absence when at Zero Journey without impacting their learning?‌***  
+
 All teachers are aware of each individual student’s travel dates. Each Learning Area has designed courses and learning approaches to best support the students as they step out for the three weeks of their Zero Journey. Each Learning Area was supported in 2023 to redesign courses and pedagogical approaches to accommodate for travel absences. Zero Mentors will also support their mentees to best prepare for their absence, and then to reengage with their subjects upon their return.
 
 *‌**‌Will Year 10 students complete examinations?‌***
