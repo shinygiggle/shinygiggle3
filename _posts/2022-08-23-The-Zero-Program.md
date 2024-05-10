@@ -38,43 +38,40 @@ If you have any questions please don’t hesitate to contact Tahnee Wood or Pete
 
 ----------------------------------------------------------
 
-**‌‌*‌What are the components of the Year 10 Zero Program?‌***
+**‌‌*‌What are the components of the Year 10 Zero Program?‌***  
 
-
-There are three main elements of the 2024 Year 10 Zero Program:
-
+There are three main elements of the 2024 Year 10 Zero Program:  
 
 
 The Zero Program includes the elements of a Year 10 student’s curricular and co-curricular experience throughout the course of their Year 10 year
-
-Zero at Kew is the year-long subject delivered by the Zero Mentor, who has dual responsibility of acting as your child's first point of contact and Mentor; and, shaping and delivering the Zero at Kew course to meet the needs of the students in their group
+Zero at Kew is the year-long subject delivered by the Zero Mentor, who has dual responsibility of acting as your child's first point of contact and Mentor; and, shaping and delivering the Zero at Kew course to meet the needs of the students in their group.
 The Zero Journey is the three-week experiential learning journey undertaken by all students. Students have chosen between the North Queensland Zero Journey and the Victorian Zero Journey.
 
 
 
-*‌‌*‌*‌Who should I communicate with regarding my child during Year 10?‌***
+*‌**Who should I communicate with regarding my child during Year 10?‌***
 
 
 Your first point of contact is your child’s Zero Mentor. Issues can be escalated to the Lead Zero Mentor, Year 10 Co-ordinator or Head of Senior School should it be deemed necessary.
 
-*‌‌*‌*‌Will my child remain with their Zero Mentor throughout Year 11 and Year 12?‌***
+*‌**Will my child remain with their Zero Mentor throughout Year 11 and Year 12?‌***
 
 
 No. Your child will be assigned a House Mentor for Year 11 and Year 12 although they will remain in the same House for the duration of Year 10 –12.
 
 
 
-*‌‌*‌*‌How many students have chosen to attend the North Queensland Zero Journey?‌***
-270. All other students will undertake the Victorian Zero Journey.
+***How many students have chosen to attend the North Queensland Zero Journey?‌***  
+270. All other students will undertake the Victorian Zero Journey.  
 
 
 
-*‌‌*‌*‌Will all subject areas take the same approach to curriculum during the Zero Journey term?‌***
+*‌**Will all subject areas take the same approach to curriculum during the Zero Journey term?‌***  
 
 
 No. All subjects have designed a course and an approach that best meets the needs of their students, and is reflective of curriculum outcomes. Therefore, each subject’s curriculum structure will differ slightly. This includes the approach to assessment and examinations.
 
-*‌‌*‌*‌What are the main approaches to course work and assessment during the Zero Journey term?‌***
+*‌**What are the main approaches to course work and assessment during the Zero Journey term?‌***  
 
 
 Some subjects have chosen to implement units of work that include flexible elements. This means that not all students will engage with all elements of the unit at the same time.
@@ -83,24 +80,24 @@ In other subjects, students will complete the topics and assessments during the 
 
 
 
-*‌‌*‌*‌Are students expected to catch up on the course work that they miss when on the Zero Journey?‌***
+*‌**‌Are students expected to catch up on the course work that they miss when on the Zero Journey?‌***
 
 
 No. Students are not expected to catch up on content and skills covered in class while on their three-week Zero Journey. Their absence has been planned for and accommodations made.
 
 
 
-*‌‌*‌*‌How will the teachers support my child to ensure they are able to manage their absence when at Zero Journey without impacting their learning?‌***
+*‌**‌How will the teachers support my child to ensure they are able to manage their absence when at Zero Journey without impacting their learning?‌***
 All teachers are aware of each individual student’s travel dates. Each Learning Area has designed courses and learning approaches to best support the students as they step out for the three weeks of their Zero Journey. Each Learning Area was supported in 2023 to redesign courses and pedagogical approaches to accommodate for travel absences. Zero Mentors will also support their mentees to best prepare for their absence, and then to reengage with their subjects upon their return.
 
 
 
-*‌‌*‌*‌Will Year 10 students complete examinations?‌***
+*‌**‌Will Year 10 students complete examinations?‌***
 
 
 Yes, students will complete an examination in most subjects, once in the semester. These examinations will take place in class time.
 
-*‌‌*‌*‌Will a student’s travel dates impact when they sit examinations?‌***
+*‌**‌Will a student’s travel dates impact when they sit examinations?‌***
 
 
 Yes. Please see below for a summary of Term (or Semester) examinations.
@@ -169,21 +166,21 @@ Science (Biology, Chemistry and Physics): examination end of each term
 
 
 
-*‌‌*‌*‌Will there be an examination timetable?‌***
+*‌**‌Will there be an examination timetable?‌***
 
 
 Yes. Each student will have access to a schedule outlining the arrangements for the semester. In Term 2, these examinations will be held from Tuesday 11 June (the day after the King’s Birthday Public Holiday) to Wednesday 19 June. Students will sit no more than one Year 10 examination each day. Subject teachers will communicate examination dates to students well in advance.
 
 
 
-*‌‌*‌*‌My child is doing a VCE subject, how are they being supported?‌***
+*‌**My child is doing a VCE subject, how are they being supported?‌***
 
 
 Year 11 subject teachers will support Year 10 students in their class, both pre-departure and upon their return. Depending on the subject, this could include alternative SAC dates, minimised course work requirements and flexible due dates.
 
 
 
-*‌‌*‌*‌What is the curriculum structure for Zero at Kew, and what ‘topics’ or ‘focus areas’ will be covered?‌***
+*‌**‌What is the curriculum structure for Zero at Kew, and what ‘topics’ or ‘focus areas’ will be covered?‌***
 The Year 10 subject of Zero at Kew is a year-long course with three periods per fortnightly cycle, and has been carefully planned to support our students to consider their strengths and interests as a learner and where they might like their learning to take them within and beyond Carey. Our Year 10 Program also supports students to consider what kind of person they are and what kind of adult they would like to become.
 
 
@@ -210,7 +207,7 @@ We are already seeing that through the Zero at Kew pedagogy, our students are be
 
 
 
-*‌‌*‌*‌Is the Zero at Kew Program assessed?‌***
+*‌**Is the Zero at Kew Program assessed?‌***
 
 
 Yes. Each term, as in all subjects, Zero Mentors complete the Carey Observable Learning Continuum which reports on each student’s growth as independent and collaborative learners.
@@ -223,14 +220,14 @@ Students will complete a project-based summative assessment in Term 4.
 
 
 
-*‌‌*‌*‌Will I receive a report on my child’s involvement in the Zero at Kew Program?‌***
+*‌**Will I receive a report on my child’s involvement in the Zero at Kew Program?‌***
 
 
 Yes. Zero Mentors will engage in the same assessment and reporting protocols as all other subject teachers. Parent, Student and Teacher Interviews have already begun, and it is not too late to book a time for a Term 1 interview.
 
 
 
-*‌‌*‌*‌How will my child be supported to choose their 2025 Year 11 program (IB or VCE) and subjects?‌***
+*‌**‌How will my child be supported to choose their 2025 Year 11 program (IB or VCE) and subjects?‌***
 
 
 Students have completed the Morrisby Profile and will meet with their Career Practitioner in Term 1 or 2 to have an initial discussion about areas of interest, insights from the Morrisby Profile, preliminary IB, VCE and other pathways and where to find information about tertiary courses and open days.
@@ -243,10 +240,10 @@ Mentors will discuss Year 11 choices with their students and students can meet a
 
 
 
-*‌‌*‌*‌What are the expectations around co-curricular activities and APS Sports and Activities whilst my child is away?‌***
+*‌**‌What are the expectations around co-curricular activities and APS Sports and Activities whilst my child is away?‌***
 Ensemble Leaders, Instrumental Music teachers, Team Managers and Coaches are aware of students’ travel dates and ensembles groups and APS teams will be managed accordingly to ensure minimal interruptions.
 
-*‌‌*‌*‌How soon after returning from the Zero Journey does my child need to return to school?‌***
+*‌**‌How soon after returning from the Zero Journey does my child need to return to school?‌***
 
 
 Students who attend the North Queensland Zero Journey will be afforded a two-day transition period of approved absence before returning to school. These two days may cross a weekend. If a student returns to Melbourne on a Friday, they will be expected to attend their regular classes on the Monday.
@@ -259,7 +256,7 @@ Students who attend the Victorian Zero Journey will return to class on the Monda
 
 
 
-*‌‌*‌*‌When are the North Queensland Zero Journey pre-departure meetings for students and parents?‌***
+*‌**When are the North Queensland Zero Journey pre-departure meetings for students and parents?‌***
 
 
 Term 2 Travel Groups:
@@ -293,14 +290,14 @@ Date: Thursday 25 July, 6.00-7.00pm – William Carey Chapel
 Groups 16-18: Ms Tanya May, Mr Stuart Coleman, Mrs Alexandra Mathew
 Date: Thursday 15 August, 6.00-7.00pm – William Carey Chapel
 
-*‌‌*‌*‌Will there be a Victorian Zero Journey pre-departure meetings for students and parents?‌***
+*‌**Will there be a Victorian Zero Journey pre-departure meetings for students and parents?‌***
 
 
 No. Students will receive information about their three-week experience in class, and parents will receive information in writing. If you require additional information, please contact your child’s Mentor. All Victorian Zero Journey students will undertake one week of Work Experience and one week of Community Service. They will also participate in a week-long Outdoor Education experience in Wilsons Promontory. A separate letter will be sent to Victorian Zero Journey parents regarding the Wilsons Promontory experience.
 
 
 
-*‌‌*‌*‌What opportunities are there for Year 10 students to undertake Work Experience?‌***
+*‌**‌What opportunities are there for Year 10 students to undertake Work Experience?‌***
 
 
 Victorian Zero Journey students will undertake one week of Work Experience as part of their Journey; however, they may also undertake another Work Experience placement in the school holidays.
@@ -321,7 +318,7 @@ More information is available via CANVAS: Carey Zero- Personal Pathways-Work Exp
 
 
 
-‌***Are there key pieces of information I need to know about how Work Experience works?‌***
+*‌**Are there key pieces of information I need to know about how Work Experience works?‌***
 
 
 Yes. Please reference the following points:
@@ -340,5 +337,5 @@ Ms Bryant will email the employer, bcc’ing students, and parents, to confirm p
 
 
 
-*‌‌*‌*‌Where do I find key contacts and other useful information in the Senior School?‌***
+*‌**‌Where do I find key contacts and other useful information in the Senior School?‌***
 Please refer to the Parent Handbook
