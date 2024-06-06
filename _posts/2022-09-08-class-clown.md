@@ -3,7 +3,7 @@ layout: post
 title: Class Clown
 date: 2022-09-08
 categories: health
-image: "/assets/classclown.png"
+image: "/assets/classclown01.png"
 author:
 - ShinyGiggle
 
