@@ -3,9 +3,9 @@ layout: page
 title: Wiki
 ---
 
-Maps
+MAPS
 
 Carey Kew Middle School
 
-map01
-map02
+ ![map01](/assets/classclown01.png)
+ ![map02](/assets/classclown01.png)
