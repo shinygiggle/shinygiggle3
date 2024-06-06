@@ -7,5 +7,5 @@ MAPS
 
 Carey Kew Middle School
 
- ![map01](/assets/classclown01.png)
- ![map02](/assets/classclown01.png)
+ ![MSMap2020](/assets/MSMap2020.png)  
+ 
