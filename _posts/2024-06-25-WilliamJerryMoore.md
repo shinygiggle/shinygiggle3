@@ -12,7 +12,7 @@ author:
 William (Jerry) Moore (1859--1927)
 ---------------------------------
 
-![Moore House Crest](/assets/MooreCrest.jpg)  
+![Moore House Crest](/shinygiggle3/assets/MooreCrest.jpg)  
 
 MOORE HOUSE is named after William (Jerry) Moore
 CREST – A Moorcock sable, combed and wattle gules.
