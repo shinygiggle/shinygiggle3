@@ -1,6 +1,6 @@
 ---
 layout: post
-title: William Jerry Moore
+title: William Frederick (Jerry) Moore
 date: 2022-09-08
 categories: biography
 image: "/assets/ThomasJerryMoore.jpg"
@@ -9,7 +9,7 @@ author:
 
 ---
 
-William (Jerry) Moore (1859--1927)
+William Frederick (Jerry) Moore (1859--1927)
 ---------------------------------
 
 
