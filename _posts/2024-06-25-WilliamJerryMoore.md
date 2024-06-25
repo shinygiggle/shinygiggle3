@@ -73,7 +73,7 @@ Margaret Moore, Mildred Mary Moss (born Moore), Grace Evelyn Moore, William Haro
 -   *Medical Journal of Australia*, Dec 1927
 -   *Punch* (Melbourne), 18 June 1908.
 
-
+![Moore House Crest](/shinygiggle3/assets/WilliamHaroldJamesMoore.jpg)  
 
 Moore, William Harold James (1893 - 1975)
 Born 31 December 1893
