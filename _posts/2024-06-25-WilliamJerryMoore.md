@@ -120,3 +120,21 @@ He was a keen amateur photographer, greatly enjoyed friendship and companionship
 membership of the Kew Gold Club at the age of 81 because he could no longer play. His membership of the Melbourne Cricket
 Club exceeded 50 years and he was Honorary Secretary of the Wallaby Club for 13 years and its President 1957-8.
 Harold Moore is survived by his widow, his children and three sisters
+
+
+[William Mitchell Moore](https://www.mountgambier.sa.gov.au/cemeteries/moore-william-mitchell)  
+
+Moore, William Mitchell  
+Cemetery:  
+Carinya Cremation - Mount Gambier  
+Last Residence:  
+Mount Gambier SA  
+Date of Death:  
+29-05-2016  
+Age at Death:  
+91 Years  
+Funeral Director:  
+South East Funeral Services  
+Comments:  
+Date of Cremation 02/06/2016  
+Ashes removed 07/06/2016  
