@@ -75,17 +75,17 @@ Margaret Moore, Mildred Mary Moss (born Moore), Grace Evelyn Moore, William Haro
 
 ![Moore House Crest](/shinygiggle3/assets/WilliamHaroldJamesMoore.jpg)  
 
-Moore, William Harold James (1893 - 1975)
-Born 31 December 1893
-Melbourne, Victoria, Australia
-Died 22 August 1975
-Occupation Medical Practitioner and Urologist
-Details
-This account appeared in the Medical Journal of Australia, 3rd/10th January, 1976 and in "A Book of Rembrance", Royal Women's
-Hospital, 1976. Author unknown
-WILLIAM HAROLD JAMES MOORE
-(1937 - 1953)
-Harold Moore died on 22nd August 1975 in his 83rd year.
+Moore, William Harold James (1893 - 1975)  
+Born 31 December 1893  
+Melbourne, Victoria, Australia  
+Died 22 August 1975  
+Occupation Medical Practitioner and Urologist  
+Details  
+This account appeared in the Medical Journal of Australia, 3rd/10th January, 1976 and in "A Book of Rembrance", Royal Women's Hospital, 1976. Author unknown  
+WILLIAM HAROLD JAMES MOORE  
+(Royal Women's Hospital 1937 - 1953)  
+
+Harold Moore died on 22nd August 1975 in his 83rd year. 
 In 1937 the appointment of Harold Moore as Honorary Urologist to the Women’s Hospital constituted a landmark in the evolution of
 obstetrics and gynaecology in Victoria, because if represented the first clinical splitting-off of a subspecialty within those disciplines,
 a process begun with the Hospital’s appointing Vera Krieger, DSc and the late Hildred Butler, DSc as biochemist and bacteriologist
