@@ -72,3 +72,51 @@ Margaret Moore, Mildred Mary Moss (born Moore), Grace Evelyn Moore, William Haro
 -   B. K. Rank, *Jerry Moore and Some of His Contemporaries* (Melb, 1975)
 -   *Medical Journal of Australia*, Dec 1927
 -   *Punch* (Melbourne), 18 June 1908.
+
+
+
+Moore, William Harold James (1893 - 1975)
+Born 31 December 1893
+Melbourne, Victoria, Australia
+Died 22 August 1975
+Occupation Medical Practitioner and Urologist
+Details
+This account appeared in the Medical Journal of Australia, 3rd/10th January, 1976 and in "A Book of Rembrance", Royal Women's
+Hospital, 1976. Author unknown
+WILLIAM HAROLD JAMES MOORE
+(1937 - 1953)
+Harold Moore died on 22nd August 1975 in his 83rd year.
+In 1937 the appointment of Harold Moore as Honorary Urologist to the Women’s Hospital constituted a landmark in the evolution of
+obstetrics and gynaecology in Victoria, because if represented the first clinical splitting-off of a subspecialty within those disciplines,
+a process begun with the Hospital’s appointing Vera Krieger, DSc and the late Hildred Butler, DSc as biochemist and bacteriologist
+and continued with the engagement of the late Hans Bettinger as pathologist and the establishment of the medical reference clinic
+of WMcI Rose and MJ Etheridge.
+The weekly urological clinic, conducted under the control of the late Colin Macdonald’s nurse-radiographer, Miss Mathilde Blythe,
+was the first systematic use by the Hospital of one of its consultants. With the development of infertility work under JW Johnstone,
+soon an additional clinic became necessary for testicular biopsy. A soft-voiced diffident man with a pleasant smile and an alert eye,
+Harold Moore served the Hospital for 16 years. His successor was Douglas B Duffy, himself succeeded in 1966 by David Kennedy.
+William Harold James Moore was the only son of Dr. William and Grace Emily Moore; he had four sisters Margaret, Mildred, Enid
+and Dorothy. He was born on 31st December 1893 at Alcaston House - a substantial predecessor of the present handsome
+building - on the corner of Collins and Spring Streets, Melbourne, where were his surgeon-father’s consulting rooms and where the
+family was to continue to live until Harold was 20.
+After some initial schooling he attended Scotch College between 1905 and 1912, entered the University of Melbourne medical
+school in 1913 and graduated Bachelor of Medicine and Bachelor of Surgery in 1917. At the (Royal) Melbourne Hospital, where he
+had been a student, he served first as Resident and Registrar, then as Honorary Surgical Clinical Assistant 1920-28, as Honorary
+Clinical Assistant to the Urologist (John Thompson Tait) 1928-33, as Honorary (First) Assistant to the Urologist from 1933 and,
+upon the retirement of Tait, as Honorary Urologist from 1947 to 1953.
+Upon his retirement in 1953 the Royal Women’s Hospital appointed him as Honorary Consulting Surgeon.
+He worked in general practice from 1922 to 1934 at his home in Kew, serving a double term as Beaney Scholar in the University
+Pathology School (1922-4), gaining the degree of Master of Surgery (Melb.) in 1927 and being elected to the fellowship of the
+Royal Australasian College of Surgeons in 1930.
+After eight months of postgraduate work in the United Kingdom he commenced private consultant practice in Collins Street in 1935
+and continued until ill-health compelled his retirement in 1972. He was a member of the Urological Society of Australasia and a late
+member of the International Society of Urologists.
+He had married in 1924 Miss Vera Rosenblum, a tutor in Philosophy at the University of Melbourne, and they had three children,
+Bill, Anne and Barbara; Dr William Mitchell Moore, FRACP, now practices at Mount Gambier.
+Harold Moore had numerous outside interests. As grandson of a Baptist Minister and son of the president of the Baptist Theological
+College he was a member of the Council of Carey Grammar School from 1929, (its President 1939-52 and an Honorary Member
+thereafter; his father had been the Foundation President) and a member of the Council of Whitley College in Melbourne University.
+He was a keen amateur photographer, greatly enjoyed friendship and companionship, played tennis all his life and only gave up
+membership of the Kew Gold Club at the age of 81 because he could no longer play. His membership of the Melbourne Cricket
+Club exceeded 50 years and he was Honorary Secretary of the Wallaby Club for 13 years and its President 1957-8.
+Harold Moore is survived by his widow, his children and three sisters
