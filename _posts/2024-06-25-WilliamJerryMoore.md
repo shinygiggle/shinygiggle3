@@ -14,9 +14,9 @@ William (Jerry) Moore (1859--1927)
 
 ![Moore House Crest](/shinygiggle3/assets/MooreCrest.jpg)  
 
-MOORE HOUSE is named after William (Jerry) Moore
-CREST – A Moorcock sable, combed and wattle gules.
-MOTTO - NIHIL UTILE QUOD NON HONESTUM (Nothing dishonest or dishonourable is useful)
+MOORE HOUSE is named after William (Jerry) Moore  
+CREST – A Moorcock sable, combed and wattle gules.  
+MOTTO - NIHIL UTILE QUOD NON HONESTUM (Nothing dishonest or dishonourable is useful)  
 
 
 by [Benjamin K. Rank](https://adb.anu.edu.au/biographies/author/?author=3084)
