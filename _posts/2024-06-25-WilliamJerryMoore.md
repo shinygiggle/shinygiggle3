@@ -12,6 +12,7 @@ author:
 William (Jerry) Moore (1859--1927)
 ---------------------------------
 
+
 ![Moore House Crest](/shinygiggle3/assets/MooreCrest.jpg)  
 
 MOORE HOUSE is named after William (Jerry) Moore  
@@ -57,6 +58,12 @@ In the grounds of Carey, by the 1884 house ‘Urangeline’ on Saturday February
 Saturday 31st January 1925, the President of the Council Dr. William Moore declared the foundation stone of the new Preparatory School, ‘well and truly laid’, and was presented with the traditional silver trowel.  It was his last formal function as President–at a subsequent meeting of the Council that same day he submitted his resignation.  He was then described as, ‘the hardest and most indefatigable of the School’s enthusiastic workers.’ 
 
 Moore died suddenly at Fitzroy on 8 September 1927 before he could take his seat on the first credentials committee of the College of Surgeons of Australasia to which he had been elected a foundation fellow earlier in the year. Buried in Box Hill cemetery, he was survived by his wife, four daughters and a son.
+
+
+Wife
+Grace Emily Moore (born Poole)
+Children
+Margaret Moore, Mildred Mary Moss (born Moore), Grace Evelyn Moore, William Harold James Moore, Enid Annie Ward Moore, Dorothy Grace Moore, <Private> Moore
 
 ### Select Bibliography
 
